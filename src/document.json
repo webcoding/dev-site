@@ -132,10 +132,9 @@
   {
     "title": "ZanUI-WeApp",
     "website": "https://github.com/youzan/zanui-weapp",
-    "des": "ZanUI-WeApp是有赞移动 Web UI 规范 ZanUI 的小程序现实版本，结合了微信的视觉规范，为用户提供更加统一的使用感受。",
+    "des": "有赞移动 ZanUI 的小程序现实版本，结合了微信的视觉规范，增强了组件。",
     "logo": "https://camo.githubusercontent.com/b3e6c0c62d421ef5df9d7e9b8366e6287c0464b7/68747470733a2f2f696d672e797a63646e2e636e2f7075626c69635f66696c65732f323031372f31302f33302f35353464643934306562316132363964346163393133336537386165333231662e6a70673f696d61676556696577322f322f772f3330302f682f333030",
     "urls": {
-      "cn": "http://link.devnode.cn/",
       "git": "https://github.com/youzan/zanui-weapp"
     },
     "tags": [ "前端" ]
@@ -143,8 +142,8 @@
   {
     "title": "ESLint",
     "website": "https://eslint.org/",
-    "des": "A fully pluggable tool for identifying and reporting on patterns in JavaScript. ",
-    "logo": "http://eslint.cn/img/logo.svg",
+    "des": "可组装的JavaScript和JSX检查工具",
+    "logo": "icons/eslint-logo.svg",
     "urls": {
       "cn": "http://eslint.cn/",
       "git": "https://github.com/eslint/eslint"
