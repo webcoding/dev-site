@@ -99,7 +99,7 @@
   {
     "title": "aliApp",
     "website": "https://docs.alipay.com/mini/framework/app",
-    "des": "支付宝小程序是一种全新的开放模式，它运行在支付宝客户端，可以被便捷地获取和传播，为终端用户提供更优的用户体验。",
+    "des": "支付宝小程序是一种全新的开放模式，运行在支付宝客户端。",
     "logo": "https://gw.alipayobjects.com/zos/skylark/public/files/c25cea0ef4ed546f3f415ec0b9ac7ce0.png",
     "urls": {
       "cn": "http://link.devnode.cn/",
@@ -110,7 +110,7 @@
   {
     "title": "wxApp",
     "website": "https://mp.weixin.qq.com/debug/wxadoc/dev/api/",
-    "des": "微信小程序是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验。",
+    "des": "微信小程序是一种全新的连接用户与服务的方式，在微信内使用。",
     "logo": "https://mp.weixin.qq.com/debug/wxadoc/dev/image/demo.jpg",
     "urls": {
       "cn": "http://link.devnode.cn/",
