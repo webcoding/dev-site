@@ -1,16 +1,5 @@
 [
   {
-    "title": "Egg.js",
-    "website": "https://eggjs.org/zh-cn/",
-    "des": "Egg.js，为企业级框架和应用而生，是阿里开源的企业级 Node.js 框架。",
-    "logo": "icons/egg-logo.svg",
-    "urls": {
-      "cn": "https://eggjs.org/zh-cn/intro/",
-      "git": "https://github.com/eggjs/egg/"
-    },
-    "tags": [ "后端" ]
-  },
-  {
     "title": "Let's Encrypt",
     "website": "https://letsencrypt.org/",
     "des": "Let's Encrypt是一个免费并且开源的CA，且已经获得Mozilla、微软等主要浏览器厂商的根授信。",
@@ -19,71 +8,6 @@
       "cn": "https://letsencrypt.org/docs/"
     },
     "tags": [ "工具" ]
-  },
-  {
-    "title": "NW.js",
-    "website": "https://nwjs.io/",
-    "des": "NW.js 可以使用WEB(html5、css3、js)技术，包括Node.js来开发桌面应用。前身是 “node-webkit” 项目。",
-    "logo": "icons/nwjs-logo.png",
-    "urls": {
-      "cn": "http://liuxp.me/nwjs/",
-      "git": "https://github.com/nwjs/nw.js"
-    },
-    "tags": [ "客户端" ]
-  },
-  {
-    "title": "Knex.js",
-    "website": "http://knexjs.org/",
-    "des": "knex.js是一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。API设计精巧易用，自带管道接口等特性，并且还支持事务。",
-    "logo": "icons/knex-logo.png",
-    "urls": {
-      "git": "https://github.com/tgriesser/knex"
-    },
-    "tags": [ "后端" ]
-  },
-  {
-    "title": "Pandora.js",
-    "website": "http://www.midwayjs.org/pandora/zh-cn/",
-    "des": "是一个可管理、可度量、可追踪的 Node.js 应用管理器。",
-    "logo": "icons/pandorajs-logo.png",
-    "urls": {
-      "cn": "http://www.midwayjs.org/pandora/zh-cn/",
-      "git": "https://github.com/midwayjs/pandora/"
-    },
-    "tags": [ "前端", "后端" ]
-  },
-  {
-    "title": "Next.js(React)",
-    "website": "https://learnnextjs.com/basics/getting-started",
-    "des": "Next.js是一个基于React的一个服务端渲染简约框架。",
-    "logo": "icons/next-logo.png",
-    "urls": {
-      "cn": "https://zeit.co/docs",
-      "git": "https://github.com/zeit/next.js"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "Nuxt.js(Vue)",
-    "website": "https://nuxtjs.org/",
-    "des": "Nuxt.js 是一个基于 Vue.js 的通用应用框架。是 Next.js 的Vue版本。",
-    "logo": "icons/nuxt-logo.png",
-    "urls": {
-      "cn": "https://zh.nuxtjs.org/",
-      "git": "https://github.com/nuxt"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "Nest.js",
-    "website": "https://docs.nestjs.com/",
-    "des": "是基于 Express、socket.io 封装，用于构建高效且可伸缩Web应用程序的渐进式 Node.js 后端开发框架。",
-    "logo": "icons/nest-logo.svg",
-    "urls": {
-      "cn": "https://docs.nestjs.cn/",
-      "git": "https://github.com/nestjs/nest"
-    },
-    "tags": [ "前端", "后端" ]
   },
   {
     "title": "Awesome Mac",
@@ -95,39 +19,6 @@
       "git": "https://github.com/jaywcjlove/awesome-mac"
     },
     "tags": [ "工具" ]
-  },
-  {
-    "title": "aliApp",
-    "website": "https://docs.alipay.com/mini/framework/app",
-    "des": "支付宝小程序是一种全新的开放模式，运行在支付宝客户端。",
-    "logo": "https://gw.alipayobjects.com/zos/skylark/public/files/c25cea0ef4ed546f3f415ec0b9ac7ce0.png",
-    "urls": {
-      "cn": "http://link.devnode.cn/",
-      "git": "https://github.com/webcoding/link"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "wxApp",
-    "website": "https://mp.weixin.qq.com/debug/wxadoc/dev/api/",
-    "des": "微信小程序是一种全新的连接用户与服务的方式，在微信内使用。",
-    "logo": "https://mp.weixin.qq.com/debug/wxadoc/dev/image/demo.jpg",
-    "urls": {
-      "cn": "http://link.devnode.cn/",
-      "git": "https://github.com/webcoding/link"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "WePY",
-    "website": "https://tencent.github.io/wepy/document.html",
-    "des": "让小程序支持组件化开发的框架。",
-    "logo": "https://tencent.github.io/wepy/img/fatures/icon_feature_component.svg",
-    "urls": {
-      "cn": "https://tencent.github.io/wepy/",
-      "git": "https://github.com/Tencent/wepy"
-    },
-    "tags": [ "前端" ]
   },
   {
     "title": "ZanUI-WeApp",
@@ -169,7 +60,7 @@
     "urls": {
       "git": "https://github.com/golang/go"
     },
-    "tags": [ "服务端", "后端" ]
+    "tags": [ "服务端", "后端", "编程语言" ]
   },
   {
     "title": "Kotlin",
@@ -196,17 +87,6 @@
     "tags": [ "工具库", "后端", "libuv" ]
   },
   {
-    "title": "Pinus",
-    "website": "http://pinus.io/",
-    "des": "基于Node.js的分布式水平扩展游戏服务器轻量级框架。",
-    "logo": "icons/pinus.png",
-    "urls": {
-      "git": "https://github.com/node-pinus/pinus",
-      "cn": "http://pinus.io/zh-cn/introduce.html"
-    },
-    "tags": [ "服务端", "后端", "框架" ]
-  },
-  {
     "title": "C/C++",
     "website": "http://en.cppreference.com/w/",
     "des": "C/C++",
@@ -215,7 +95,7 @@
       "cn": "http://zh.cppreference.com/w/",
       "anoher":"http://www.cplusplus.com/"
     },
-    "tags": [ "C/C++" ]
+    "tags": [ "编程语言" ]
   },
   {
     "title": "Cocos",
@@ -277,7 +157,7 @@
     "urls": {
       "cn": "http://python.usyiyi.cn/translate/python_352/index.html"
     },
-    "tags": [ "服务端", "后端" ]
+    "tags": [ "服务端", "后端", "编程语言" ]
   },
   {
     "title": "Swift",
@@ -289,7 +169,7 @@
       "cn": "http://swiftguide.cn/",
       "community": "https://www.apple.com/cn/swift/"
     },
-    "tags": [ "服务端", "后端" ]
+    "tags": [ "服务端", "后端", "编程语言" ]
   },
   {
     "title": "JAVA",
@@ -299,7 +179,7 @@
     "urls": {
       "cn": "http://www.oracle.com/technetwork/cn/java/index.html"
     },
-    "tags": [ "服务端", "后端" ]
+    "tags": [ "服务端", "后端", "编程语言" ]
   },
   {
     "title": ".NET",
@@ -320,7 +200,7 @@
       "cn": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
       "es6": "http://es6.ruanyifeng.com/"
     },
-    "tags": [ "前端" ]
+    "tags": [ "前端", "编程语言" ]
   },
   {
     "title": "CSS",
@@ -351,6 +231,17 @@
     "urls": {
       "cn": "https://www.tslang.cn/",
       "git": "https://github.com/Microsoft/TypeScript"
+    },
+    "tags": [ "编译器", "前端" ]
+  },
+  {
+    "title": "CoffeeScript",
+    "website": "http://coffeescript.org/",
+    "des": "一门编译到 JavaScript 的小巧语言。",
+    "logo": "icons/coffeescript.svg",
+    "urls": {
+      "cn": "http://coffee-script.org/",
+      "git": "https://github.com/jashkenas/coffeescript"
     },
     "tags": [ "编译器", "前端" ]
   },
@@ -421,6 +312,40 @@
     "tags": [ "框架", "后端" ]
   },
   {
+    "title": "Egg.js",
+    "website": "https://eggjs.org/zh-cn/",
+    "des": "阿里开源的企业级 Node.js 框架。",
+    "logo": "icons/egg-logo.svg",
+    "urls": {
+      "cn": "https://eggjs.org/zh-cn/intro/",
+      "git": "https://github.com/eggjs/egg/"
+    },
+    "tags": [
+      "后端"
+    ]
+  },
+  {
+    "title": "Knex.js",
+    "website": "http://knexjs.org/",
+    "des": "knex.js是一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。API设计精巧易用，自带管道接口等特性，并且还支持事务。",
+    "logo": "icons/knex-logo.png",
+    "urls": {
+      "git": "https://github.com/tgriesser/knex"
+    },
+    "tags": [ "后端" ]
+  },
+  {
+    "title": "Pandora.js",
+    "website": "http://www.midwayjs.org/pandora/zh-cn/",
+    "des": "是一个可管理、可度量、可追踪的 Node.js 应用管理器。",
+    "logo": "icons/pandorajs-logo.png",
+    "urls": {
+      "cn": "http://www.midwayjs.org/pandora/zh-cn/",
+      "git": "https://github.com/midwayjs/pandora/"
+    },
+    "tags": [ "前端", "后端" ]
+  },
+  {
     "title": "Electron",
     "website": "https://electronjs.org/",
     "des": "使用JS和React构建原生移动应用程序",
@@ -430,6 +355,57 @@
       "cn": "https://electronjs.org/"
     },
     "tags": [ "框架", "桌面客户端", "前端" ]
+  },
+  {
+    "title": "NW.js",
+    "website": "https://nwjs.io/",
+    "des": "使用WEB(html5、css3、js)技术，包括Node.js来开发桌面应用。",
+    "logo": "icons/nwjs-logo.png",
+    "urls": {
+      "cn": "http://liuxp.me/nwjs/",
+      "git": "https://github.com/nwjs/nw.js"
+    },
+    "tags": [ "框架", "客户端", "前端" ]
+  },
+  {
+    "title": "Next.js(React)",
+    "website": "https://zeit.co/docs",
+    "des": "一个基于React的一个服务端渲染简约框架。",
+    "logo": "icons/next-logo.svg",
+    "urls": {
+      "cn": "https://learnnextjs.com/",
+      "git": "https://github.com/zeit/next.js"
+    },
+    "tags": [
+      "前端"
+    ]
+  },
+  {
+    "title": "Nuxt.js(Vue)",
+    "website": "https://nuxtjs.org/",
+    "des": "一个基于 Vue.js 的通用应用框架。",
+    "logo": "icons/nuxt-logo.svg",
+    "urls": {
+      "cn": "https://zh.nuxtjs.org/",
+      "git": "https://github.com/nuxt"
+    },
+    "tags": [
+      "前端"
+    ]
+  },
+  {
+    "title": "Nest.js",
+    "website": "https://docs.nestjs.com/",
+    "des": "是基于 Express 封装，用于构建高效且可伸缩 Node.js 后端开发框架。",
+    "logo": "icons/nest-logo.svg",
+    "urls": {
+      "cn": "https://docs.nestjs.cn/",
+      "git": "https://github.com/nestjs/nest"
+    },
+    "tags": [
+      "前端",
+      "后端"
+    ]
   },
   {
     "title": "React",
@@ -443,10 +419,20 @@
     "tags": [ "框架", "React", "前端" ]
   },
   {
+    "title": "uiw",
+    "website": "https://uiw-react.github.io/",
+    "des": "基于React的UI组件库。",
+    "logo": "icons/uiw-react.svg",
+    "urls": {
+      "git": "https://github.com/uiw-react/uiw"
+    },
+    "tags": [ "框架", "React", "前端" ]
+  },
+  {
     "title": "Flutter",
     "website": "https://flutter.io/",
     "des": "一种新型的方式,用于创建高性能、跨平台的移动应用。",
-    "logo": "icons/flutter.png",
+    "logo": "icons/flutter.svg",
     "urls": {
       "git": "https://github.com/flutter/flutter"
     },
@@ -680,6 +666,16 @@
     "tags": [ "代码质量", "前端" ]
   },
   {
+    "title": "Prettier",
+    "website": "https://prettier.io",
+    "des": "一个有见识的代码格式化工具。",
+    "logo": "icons/prettier.svg",
+    "urls": {
+      "git": "https://github.com/prettier/prettier"
+    },
+    "tags": [ "代码质量", "前端" ]
+  },
+  {
     "title": "StyleLint",
     "website": "http://stylelint.io/",
     "des": "强大的现代CSS检测器",
@@ -838,6 +834,16 @@
     "tags": [ "后端" ]
   },
   {
+    "title": "Knex.js",
+    "website": "http://knexjs.org/",
+    "des": "一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。",
+    "logo": "icons/knex-logo.svg",
+    "urls": {
+      "git": "https://github.com/tgriesser/knex"
+    },
+    "tags": [ "后端" ]
+  },
+  {
     "title": "Redis",
     "website": "https://redis.io/",
     "des": "一个开源的使用ANSI C语言编写的内存数据库。",
@@ -918,5 +924,37 @@
       "cn": "http://www.postgres.cn/document"
     },
     "tags": [ "后端", "数据库" ]
+  },
+  {
+    "title": "WePY",
+    "website": "https://tencent.github.io/wepy/",
+    "des": "让小程序支持组件化开发的框架。",
+    "logo": "icons/wepy.svg",
+    "urls": {
+      "git": "https://github.com/Tencent/wepy"
+    },
+    "tags": [ "前端" ]
+  },
+  {
+    "title": "支付宝小程序",
+    "website": "https://docs.alipay.com/mini/framework/app",
+    "des": "是一个基于支付宝运行的程序。",
+    "logo": "icons/alipay-mini-app.svg",
+    "urls": {
+      "git": "https://github.com/webcoding/link"
+    },
+    "tags": [ "前端" ]
+  },
+  {
+    "title": "微信小程序",
+    "website": "https://mp.weixin.qq.com/debug/wxadoc/dev/api/",
+    "des": "是一个基于微信运行的程序。",
+    "logo": "icons/wechat-mini-app.svg",
+    "urls": {
+      "git": "https://github.com/webcoding/link"
+    },
+    "tags": [
+      "前端"
+    ]
   }
 ]
