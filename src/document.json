@@ -317,7 +317,6 @@
     "des": "阿里开源的企业级 Node.js 框架。",
     "logo": "icons/egg-logo.svg",
     "urls": {
-      "cn": "https://eggjs.org/zh-cn/intro/",
       "git": "https://github.com/eggjs/egg/"
     },
     "tags": [
@@ -328,7 +327,7 @@
     "title": "Knex.js",
     "website": "http://knexjs.org/",
     "des": "knex.js是一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。API设计精巧易用，自带管道接口等特性，并且还支持事务。",
-    "logo": "icons/knex-logo.png",
+    "logo": "icons/knex-logo.svg",
     "urls": {
       "git": "https://github.com/tgriesser/knex"
     },
