@@ -257,6 +257,17 @@
     "tags": [ "构建工具", "前端" ]
   },
   {
+    "title": "Parcel",
+    "website": "https://en.parceljs.org/",
+    "des": "极速零配置Web应用打包工具",
+    "logo": "icons/parcel.svg",
+    "urls": {
+      "cn": "https://zh.parceljs.org/",
+      "git": "https://github.com/parcel-bundler/parcel"
+    },
+    "tags": [ "构建工具", "前端" ]
+  },
+  {
     "title": "Rollup",
     "website": "http://rollupjs.org",
     "des": "前端资源打包工具",
@@ -357,6 +368,17 @@
     "tags": [ "框架", "客户端", "前端" ]
   },
   {
+    "title": "ReactiveX",
+    "website": "http://reactivex.io/",
+    "des": "用于 JavaScript 的 ReactiveX 库。",
+    "logo": "icons/reactivex.svg",
+    "urls": {
+      "git": "https://github.com/ReactiveX/rxjs",
+      "cn": "http://cn.rx.js.org/"
+    },
+    "tags": [ "前端", "工具库" ]
+  },
+  {
     "title": "Next.js(React)",
     "website": "https://zeit.co/docs",
     "des": "一个基于React的一个服务端渲染简约框架。",
@@ -365,9 +387,7 @@
       "cn": "https://learnnextjs.com/",
       "git": "https://github.com/zeit/next.js"
     },
-    "tags": [
-      "前端"
-    ]
+    "tags": [ "前端" ]
   },
   {
     "title": "Nuxt.js(Vue)",
@@ -378,9 +398,7 @@
       "cn": "https://zh.nuxtjs.org/",
       "git": "https://github.com/nuxt"
     },
-    "tags": [
-      "前端"
-    ]
+    "tags": [ "前端" ]
   },
   {
     "title": "Nest.js",
@@ -391,10 +409,7 @@
       "cn": "https://docs.nestjs.cn/",
       "git": "https://github.com/nestjs/nest"
     },
-    "tags": [
-      "前端",
-      "后端"
-    ]
+    "tags": [ "前端", "后端" ]
   },
   {
     "title": "React",
@@ -426,6 +441,17 @@
       "git": "https://github.com/flutter/flutter"
     },
     "tags": [ "框架", "移动端", "前端" ]
+  },
+  {
+    "title": "Keras",
+    "website": "https://keras.io",
+    "des": "一个用 Python 编写的高级神经网络 API。",
+    "logo": "icons/keras.svg",
+    "urls": {
+      "cn": "https://keras.io/zh/",
+      "git": "https://github.com/keras-team/keras"
+    },
+    "tags": [ "框架", "深度学习" ]
   },
   {
     "title": "React Native",
